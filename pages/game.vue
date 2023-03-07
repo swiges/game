@@ -6,7 +6,7 @@
 
 <script>
 import UnitClass from "~/assets/js/UnitClass"
-import UnitCart from "@/components/Game/UnitCart.vue";
+import UnitCart from "@/components/UnitCart.vue";
 export default {
   name: "game",
   components: {UnitCart},
